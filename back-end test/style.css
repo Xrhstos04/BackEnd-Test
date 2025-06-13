@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
